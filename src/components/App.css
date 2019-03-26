@@ -1,0 +1,17 @@
+body{
+display: flex;
+justify-content: center
+}
+.btn-primary{
+    width: 51%;
+    height: 39px;
+}
+.header-app{
+    display: flex
+}
+.form-control{
+    margin-top: 7px
+}
+ul{
+    list-style:outside none none
+}
